@@ -82,7 +82,5 @@ function playGame() {
     }
 }
 
-const humanSelection = getHumanChoice();
-const computerSelection = getComputerChoice();
 
 console.log(playGame());
